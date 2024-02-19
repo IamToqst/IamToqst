@@ -1,4 +1,4 @@
-<h2 align="center" >Hello, IamToqst<h2>
+<h2 align="center" >IamToqst<h2>
   
   Hi IamToqst, i know Python, JavaScript, HTML, and PHP programming languages.
 
