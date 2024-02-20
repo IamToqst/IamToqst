@@ -8,4 +8,4 @@
 
   HTML, bruh i dont even know it this thing is a real programming language.
 
-  PHP, I like php when making PocketMine MP plugins its very simple but if your gonna tell me to do something with it's API in it i cant do it because i suck at it, instead of fixing or making things better i make it even more worse.
+  PHP, I like php when making PocketMine MP plugins its very simple but if your gonna tell me to do something with it's API in it i cant do it because i suck at it, instead of fixing or making things better i make it even more worse,overall I suck at PHP and JavaScript
