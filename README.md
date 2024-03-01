@@ -1,11 +1,18 @@
-<h2 align="center" >IamToqst<h2>
-  
-  Hi IamToqst, i know Python, JavaScript, HTML, and PHP programming languages.
+# IamToqst
 
-  I know Python very well and i use it most of the times.
+## These are the languages i use:
 
-  JavaScript, yeah i know it and i kinda hate it because i dont know much of it since its kinda hard for me to learn it.
+<div> 
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=wh">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Batchfile-4EAA25?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<div/>
 
-  HTML, bruh i dont even know it this thing is a real programming language.
-
-  PHP, I like php when making PocketMine MP plugins its very simple but if your gonna tell me to do something with it's API in it i cant do it because i suck at it, instead of fixing or making things better i make it even more worse,overall I suck at PHP and JavaScript
+## These are the tools i used to code:
+<div>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<div/>
