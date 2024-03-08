@@ -6,7 +6,8 @@ I am Toqst well known as Fire, i became a self tought progammer when i was twelv
 
 <div> 
 These are the programming languages i've used in my past 5 years in programming.
-  
+ <div/>
+<div> 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=wh">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
