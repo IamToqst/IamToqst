@@ -6,7 +6,7 @@ I am Toqst well known as Fire, i became a self tought progammer when i was twelv
 
 <div> 
 These are the programming languages i've used in my past 5 years in programming.
- <div/>
+<div/>
 <div> 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=wh">
@@ -19,7 +19,8 @@ These are the programming languages i've used in my past 5 years in programming.
 ## Workplaces:
 <div>
   This is where i code, i usually use Visual Studio Code and Notepad++ because of its features that helps me in programming.
-
+<div/>
+<div>
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
