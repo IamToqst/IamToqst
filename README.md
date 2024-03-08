@@ -1,4 +1,4 @@
-# IamToqst
+# IamToqst Profile
 
 I am Toqst well known as Fire, i became a self tought progammer when i was twelve years old, my specialties are Python, HTML, and Batchfile i know right these are the most easiest programming language thats why i use it very often, im a junior developer from Brazil and Philippines.
 
