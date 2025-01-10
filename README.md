@@ -1,12 +1,8 @@
 # 'IamToqst Profile'
 
-I am Toqst well known as Fire, I became a self-taught programmer when I was twelve years old. My specialties are Python, HTML, and Batchfile. I know, right? These are the most straightforward programming languages; that's why I use them very often. I'm a junior developer from Spain, Barcelona I've been to Phillipines & Brazil aswell.
+I am Toqst well known as Fire, I became a self-taught programmer when I was twelve years old. My specialties are Python, HTML, and Batchfile. I know, right? These are the most straightforward programming languages; that's why I use them very often. I'm a junior developer from Philippines.
 
-Spain, 12 years,
-Philippines, 3 years,
-Brazil, 1 year
-
-I speak Spanish, English, Tagalog, & French 
+I speak Spanish (Espanol, Espanya), English (Ingles), Tagalog.
 
 ## Programming Languages:
 
