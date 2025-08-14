@@ -44,7 +44,7 @@ Where I code most of the time:
 
 ## Notes
 
-I am terrible at designing.
+I am terrible at designing. ![CSS](https://img.shields.io/badge/CSS-1a1a1a?style=for-the-badge&logo=css3&logoColor=ff4d4d)
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4d4d&height=120&section=footer"/>
