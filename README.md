@@ -1,4 +1,4 @@
-# Hi! my name is Toast (aka yToqst)
+# Hi! my name is Toqst (aka Dave)
 ![My profile](https://github-stats-alpha.vercel.app/api/?username=IamToqst&cc=000000&tc=ff4d4d&ic=ff6666&bc=801515)
 
 ### Programming languages I use
