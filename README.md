@@ -1,6 +1,8 @@
 # 'yToqst Profile'
 
-Yo soy yToqst well known as Fuego, I became a self-taught programmer when I was 1* years anos. Mi specialties are Java, HTML, y PHP. I know, right? These are the most straightforward programming languages; that's why I use them very often. I'm a junior developer..
+Yo soy yToqst well known as Fuego, I became a self-taught programmer when I was 1* years anos. Mi specialties are Java, HTML, y PHP. I know, right? These are the most straightforward programming languages; that's why I use them very often.
+
+Web & PM2 developer 
 
 Yo hablas Spanish (Espanol, Espanya), English (Ingles), y Tagalog.
 
