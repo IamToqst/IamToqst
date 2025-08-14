@@ -8,7 +8,7 @@
 
 ---
 
-# yToqst Profile
+# My profile
 
 I am yToqst, also known as Fuego. I became a self-taught programmer when I was 1* years old.  
 My specialties are Java, HTML, and PHP — straightforward languages that I use frequently.  
