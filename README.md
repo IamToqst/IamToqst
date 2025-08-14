@@ -23,7 +23,7 @@ I speak Spanish, English, and Tagalog.
 
 These are the programming languages I’ve used in recent years (not all are listed):
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=ff4d4d)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=ff4d4d)
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=ff4d4d)
 ![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=ff4d4d)
 ![Batchfile](https://img.shields.io/badge/Batchfile-1a1a1a?style=for-the-badge&logo=windows&logoColor=ff4d4d)
