@@ -1,4 +1,11 @@
-# 'yToqst Profile'
+# Hi! my name is Toast (aka yToqst)
+![My profile](https://github-stats-alpha.vercel.app/api/?username=IamToqst&cc=000000&tc=ff4d4d&ic=ff6666&bc=801515)
+### Programming languages I use
+- ![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=ff4d4d)
+- ![JAVA](https://img.shields.io/badge/JAVA-1a1a1a?style=for-the-badge&logo=java&logoColor=ff4d4d)
+- ![PYTHON](https://img.shields.io/badge/PYTHON-1a1a1a?style=for-the-badge&logo=python&logoColor=ff4d4d) (I don't use it much)
+-
+- # 'yToqst Profile'
 
 Yo soy yToqst well known as Fuego, I became a self-taught programmer when I was 1* years anos. Mi specialties are Java, HTML, y PHP. I know, right? These are the most straightforward programming languages; that's why I use them very often.
 
