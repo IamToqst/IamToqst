@@ -50,3 +50,9 @@ I am terrible at designing. ![CSS](https://img.shields.io/badge/CSS-1a1a1a?style
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4d4d&height=120&section=footer"/>
+
+### Simple game
+
+[▶ Play the Dinosaur Game](./dino.html)
+
+> Controls: **Space / ↑ / W** or **Tap** to jump. **P** to pause, **R** to restart.
