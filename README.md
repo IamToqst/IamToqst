@@ -12,7 +12,7 @@
 
 I am yToqst, also known as Fuego. I became a self-taught programmer when I was 1* years old.  
 My specialties are Java, Python, and PHP.
-I am a Web & PM2 developer.
+I'm a Web, PM2, & Discord bot developer.
 
 Former Lead Developer of InfinityLand (aka DropCraft) with a member count of 600.
 
