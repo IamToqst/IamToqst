@@ -1,14 +1,14 @@
 # Hi! my name is Toqst (aka Dave)
 ![My profile](https://github-stats-alpha.vercel.app/api/?username=IamToqst&cc=000000&tc=ff4d4d&ic=ff6666&bc=801515)
 
-### Programming Languages I use |
+### Programming Languages I use
 - ![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=ff4d4d)
 - ![JAVA](https://img.shields.io/badge/JAVA-1a1a1a?style=for-the-badge&logo=java&logoColor=ff4d4d)
 - ![PYTHON](https://img.shields.io/badge/PYTHON-1a1a1a?style=for-the-badge&logo=python&logoColor=ff4d4d) (I don't use it much)
 
 ---
 
-# My profile |
+# My profile 
 
 I am yToqst, also known as Fuego. I became a self-taught programmer when I was 1* years old.  
 My specialties are Java, HTML, and PHP — straightforward languages that I use frequently.  
@@ -19,7 +19,7 @@ I speak Spanish, English, and Tagalog.
 
 ---
 
-## Programming Languages I've used |
+## Programming Languages I've used 
 
 These are the programming languages I’ve used in recent years (not all are listed):
 
@@ -34,7 +34,7 @@ These are the programming languages I’ve used in recent years (not all are lis
 
 ---
 
-## IDE I use |
+## IDE I use 
 
 Where I code most of the time:
 
